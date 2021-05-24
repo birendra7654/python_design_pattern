@@ -1,0 +1,2 @@
+# Use of bridge pattern to avoid creating many classes,
+# avoid explosion of too many classes
